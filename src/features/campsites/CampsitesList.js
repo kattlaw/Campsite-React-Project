@@ -13,7 +13,7 @@ const CampsitesList = ({ setCampsiteId }) => {
                          className='m-4' 
                          key={campsite.id}
                          onClick={() => setCampsiteId(campsite.id)}
-                         >
+                    >
                         <CampsiteCard campsite={campsite} />
                     </Col>
                 );
