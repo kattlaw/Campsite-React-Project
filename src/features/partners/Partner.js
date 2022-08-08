@@ -6,8 +6,8 @@ const Partner = ({ partner }) => {
             <>
             <img src={image} alt={name} style={{ width:'150px' }} />
             <div clasName='m-4'>
-                <h5 className='fw-bold'>{name}</h5>
-                {description}
+                <h5 className='fw-bold m-3'>{name}</h5>
+                <div className='m-3'>{description}</div>
             </div>
             </>
         );
