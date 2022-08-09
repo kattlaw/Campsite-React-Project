@@ -1,6 +1,6 @@
 # Campsite-React-Project
 	
-	Mock campsite App created during bootcamp throughout the React Court portion
+	Mock campsite App created during bootcamp throughout the React Course portion
 	
 	Includes the use of:
 		-React-Router
