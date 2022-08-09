@@ -1,4 +1,4 @@
-##Campsite-React-Project
+#Campsite-React-Project
 
 Mock Campsite App created during bootcamp througout the React Course portion.
 
@@ -19,3 +19,4 @@ Allows:
   -Validations of login and add new comment modals
   -POST a new comment to specific campsite
   -Contact form with validation
+
