@@ -1,6 +1,6 @@
 # Campsite-React-Project
 
-https://campsite-react-project.netlify.app/
+
 
 	Mock campsite App created during bootcamp throughout the React Course portion
 	
