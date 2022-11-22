@@ -17,5 +17,5 @@ https://campsite-react-project.netlify.app/
 	Allows user to:
 		-Login
 		-Validation/error messages to all user inputs
-		-POST a new comment to a specific campsite page
-		-User inputs for a Contact Form
+		-POST a new comment to a specific campsite page using comment form/ comment posts upon submit.
+		-User inputs for a Contact Form/ Input Error Validation
